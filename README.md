@@ -1,3 +1,8 @@
+App using useReducer hook to demo  a quiz app in react. Using json server as backend, the app is timed 
+
+![quiz](https://github.com/user-attachments/assets/041f66f0-3ee5-4f79-9d4d-6b9903c81dc7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
